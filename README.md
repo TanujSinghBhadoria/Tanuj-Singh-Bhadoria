@@ -1,4 +1,4 @@
-# Hi, I'm [Tanuj Singh Bhadoria]
+# Hi, I'm Tanuj Singh Bhadoria
 
 Full Stack Software Engineer specializing in scalable backend systems, real-time architectures, and AI-powered applications.
 
